@@ -38,7 +38,8 @@ command > python -m pip install requests
 
 # Target User
 * Open Link <Your IP> EX. 127.0.0.1:8080
-* Enter Facebook Username and Password
+* Enter Facebook phorn thida
+ and Password
   
 # Look for Password
 * Open <Your IP>:<Port>/admin in browser Ex. 127.0.0.1:8080/admin
